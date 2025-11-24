@@ -108,6 +108,8 @@ SUPABASE_ANON_KEY=xxxx
 flutter run
 Cihazı seç → uygulama hazır 🎉
 
+```
+
 📸 Ekran Görüntüleri
 Aşağıdaki img alanlarına kendi screenshot URL veya path’lerini ekleyebilirsin:
 
@@ -151,7 +153,6 @@ Aşağıdaki img alanlarına kendi screenshot URL veya path’lerini ekleyebilir
   <img src="assets/screenshot/offline_durumu.png" height="400">
   <img src="assets/screenshot/note_page.png" height="400">
 </p>
-```
 
 -----------------------------------------------------------------------------
 
