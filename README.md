@@ -174,11 +174,6 @@ Windows (scoop):
 scoop install supabase
 
 
-Linux:
-
-curl -fsSL https://supabase.com/cli/install.sh | sh
-
-
 Kurulumu doğrula:
 
 supabase --version
