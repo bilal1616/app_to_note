@@ -111,7 +111,6 @@ Cihazı seç → uygulama hazır 🎉
 ```
 
 📸 Ekran Görüntüleri
-Aşağıdaki img alanlarına kendi screenshot URL veya path’lerini ekleyebilirsin:
 
 ## Kayıt Ol-Giriş Yap
 
@@ -125,7 +124,7 @@ Aşağıdaki img alanlarına kendi screenshot URL veya path’lerini ekleyebilir
 <p float="left">
   <img src="assets/screenshot/note_page.png" height="400">
   <img src="assets/screenshot/info_modal.png" height="400">
-  <img src="assets/screenshot/info_modal.png" height="400">
+  <img src="assets/screenshot/menü.png" height="400">
   <img src="assets/screenshot/sabitlenen_notlar.png" height="400">
 </p>
 
