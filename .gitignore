@@ -1,0 +1,85 @@
+# -------------------------
+# 🔐 ENVIRONMENT SECRETS
+# -------------------------
+.env
+.env.*
+*.env
+supabase/.env
+supabase/.env.local
+
+
+# -------------------------
+# 🧹 SUPABASE TEMP & INTERNAL
+# -------------------------
+supabase/.temp
+supabase/.branches
+supabase/.shadow
+supabase/.supabase
+
+
+# -------------------------
+# 🍏 FLUTTER / DART
+# -------------------------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+
+
+# -------------------------
+# 📱 PLATFORM BUILD FOLDERS
+# -------------------------
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.generated/
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/debug
+android/app/profile
+android/app/release
+
+# Web
+web/.dart_tool/
+
+# Linux / macOS / Windows Build
+linux/flutter/
+macos/Flutter/
+windows/flutter/
+
+
+# -------------------------
+# 📦 PROJECT ARTIFACTS
+# -------------------------
+**/doc/api/
+coverage/
+*.map.json
+app.*.symbols
+app.*.map.json
+
+
+# -------------------------
+# 🧠 IDE / EDITOR CONFIG
+# -------------------------
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VSCode
+.vscode/
+
+# General garbage
+.DS_Store
+*.log
+*.swp
+*.swo
+*.tmp
+*.lock
